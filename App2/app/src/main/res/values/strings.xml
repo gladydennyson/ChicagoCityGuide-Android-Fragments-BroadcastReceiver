@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="appdescription">This App will give you a complete list of Attractions and Restaurants to visit in Chicago</string>
+    <string-array name="attractionTitles">
+        <item>Millennium Park</item>
+        <item>Art Institute of Chicago</item>
+        <item>Willis Tower Skydeck</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Chicago Riverwalk</item>
+        <item>Museum of Science and Industry</item>
+        <item>360 Chicago</item>
+
+    </string-array>
+
+    <string-array name="restaurantTitles">
+        <item>"Cindy's"</item>
+        <item>"The Momo World"</item>
+        <item>"RPM Italian"</item>
+        <item>"Cheese Cake Factory"</item>
+        <item>"Ghareeb Nawaz"</item>
+        <item>"The Purple Pig"</item>
+        <item>"Chicago's Pizza"</item>
+        <item>"Aba"</item>
+        <item>"Chicago Board Game Cafe"</item>
+        <item>"Amaru"</item>
+    </string-array>
+
+    <string-array name="Attractions">
+        <item>"https://www.choosechicago.com/articles/parks-outdoors/millennium-park-campus/"</item>
+        <item>"https://www.artic.edu/"</item>
+        <item>"https://theskydeck.com/"</item>
+        <item>"https://www.lpzoo.org/"</item>
+        <item>"https://navypier.org/"</item>
+        <item>"https://www.choosechicago.com/articles/parks-outdoors/spend-a-day-on-the-chicago-riverwalk/"</item>
+        <item>"https://www.msichicago.org/"</item>
+        <item>"https://360chicago.com/"</item>
+    </string-array>
+
+    <string-array name="Restaurants">
+        <item>"https://www.cindysrooftop.com/"</item>
+        <item>"https://themomoworld.com/"</item>
+        <item>"https://www.rpmrestaurants.com/rpm-italian-chicago/"</item>
+        <item>"https://www.thecheesecakefactory.com/"</item>
+        <item>"https://ghareebnawazonline.com/"</item>
+        <item>"https://www.thepurplepigchicago.com/"</item>
+        <item>"https://www.chicagos-pizza.com/"</item>
+        <item>"https://www.abarestaurants.com/"</item>
+        <item>"https://www.chicagogamecafe.com/"</item>
+        <item>"https://www.amaruchicago.com/"</item>
+    </string-array>
+</resources>

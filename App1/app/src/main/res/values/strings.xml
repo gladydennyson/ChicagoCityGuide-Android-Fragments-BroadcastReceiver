@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="permission_description">To communicate between App1 and App2</string>
+    <string name="permission_label">Project 3 permission</string>
+    <string name="attractionText">Click on Attractions to view the best point of interests in Chicago</string>
+    <string name="restaurantText">Click on Restaurants button to view the top Restaurants in Chicago</string>
+
+</resources>
